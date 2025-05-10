@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/nav_games"
+        android:icon="@drawable/ic_games"
+        android:title="@string/games"
+        app:iconTint="@color/bottom_nav_item_icon_color"
+        app:titleTextColor="@color/bottom_nav_item_text_color" />
+
+    <item
+        android:id="@+id/nav_recent_reviews"
+        android:icon="@drawable/ic_recent"
+        android:title="@string/recent_reviews"
+        app:iconTint="@color/bottom_nav_item_icon_color"
+        app:titleTextColor="@color/bottom_nav_item_text_color" />
+
+    <item
+        android:id="@+id/nav_my_reviews"
+        android:icon="@drawable/ic_user_reviews"
+        android:title="@string/my_reviews"
+        app:iconTint="@color/bottom_nav_item_icon_color"
+        app:titleTextColor="@color/bottom_nav_item_text_color" />
+
+    <item
+        android:id="@+id/nav_settings"
+        android:icon="@drawable/ic_settings"
+        android:title="@string/settings"
+        app:iconTint="@color/bottom_nav_item_icon_color"
+        app:titleTextColor="@color/bottom_nav_item_text_color" />
+</menu>

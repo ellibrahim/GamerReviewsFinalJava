@@ -1,0 +1,12 @@
+<resources>
+    <!-- Base application theme -->
+
+
+
+    <style name="Theme.GamerReviewsFinalJava" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:windowBackground">@android:color/white</item>
+        <item name="android:textColorPrimary">@android:color/black</item>
+        <item name="android:colorPrimary">@color/colorPrimary</item>
+    </style>
+
+</resources>

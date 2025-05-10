@@ -1,0 +1,55 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#17111D"
+    android:orientation="vertical"
+    android:padding="24dp"
+    android:gravity="center_horizontal"
+    android:baselineAligned="false">
+
+    <Button
+        android:id="@+id/btnChangePassword"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Change Password"
+        android:textColor="#FFFFFF"
+        android:background="@drawable/rounded_button"
+        android:padding="16dp"
+        android:textSize="18sp"
+        android:layout_marginTop="16dp" />
+
+    <Button
+        android:id="@+id/btnLogout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Log Out"
+        android:textColor="#FFFFFF"
+        android:background="@drawable/rounded_button"
+        android:padding="16dp"
+        android:textSize="18sp"
+        android:layout_marginTop="16dp"
+        android:visibility="gone" />
+
+    <Button
+        android:id="@+id/btnLogin"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Log In"
+        android:textColor="#FFFFFF"
+        android:background="@drawable/rounded_button"
+        android:textSize="20sp"
+        android:layout_marginTop="40dp"
+        android:visibility="visible" />
+
+    <Button
+        android:id="@+id/btnSignUp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Sign Up"
+        android:textColor="#FFFFFF"
+        android:background="@drawable/rounded_button"
+        android:textSize="20sp"
+        android:layout_marginTop="24dp"
+        android:visibility="visible" />
+
+</LinearLayout>
