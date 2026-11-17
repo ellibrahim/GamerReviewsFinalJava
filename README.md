@@ -1,35 +1,50 @@
-# GamerReviews 🎮
+# 🎮 GamerReviews — Android Game Rating & Review App
 
-An Android application for discovering, rating, and reviewing video games, inspired by platforms like IMDb.
+An Android application inspired by IMDb, designed for video game enthusiasts to discover, rate, and review video games.
 
-This project was developed as a personal project for my 12th-grade graduation project. It demonstrates my experience with Android development and Java.
+Developed as a high-school graduation project using Java and Android Studio.
 
-## 🎥 Demo Video
+🎥 Demo Video
 
 Want to see the application in action?
 
-[▶ Watch the GamerReviews App Demo](https://drive.google.com/file/d/1Z3ZYQH5rv3C6pZhGxSB9yXnbO12qu_kJ/view)
+▶ Watch the GamerReviews App Demo
 
 The video demonstrates the application running and showcases its functionality.
 
 ## 📱 About the Project
 
-GamerReviews is an Android application designed around video game ratings and reviews.
+GamerReviews is a mobile platform that brings video game ratings and reviews together in one application.
 
-The idea behind the project is to create a platform where users can explore video games and share their opinions through ratings and reviews.
+The goal is to provide users with a simple way to explore video games and share their opinions through ratings and reviews.
 
-The project was built to develop my programming skills and gain practical experience with Android application development.
+## ✨ Features
+
+- Browse and explore video games.
+- Rate video games.
+- Review and share opinions about games.
+- Android-based user interface.
+- Dedicated platform for video game ratings and reviews.
 
 ## 🛠️ Technologies Used
 
-- **Java** – Main programming language.
-- **Android Studio** – Development environment.
-- **XML** – Android user interface layouts.
-- **Gradle** – Build automation.
+| Technology | Purpose |
+|---|---|
+| Java | Application development |
+| Android Studio | Development environment |
+| XML | Android UI layouts |
+| Gradle | Build automation |
 
 ## 🚀 Getting Started
 
-To run the project locally:
+### Requirements
+
+- Android Studio
+- Java Development Kit (JDK)
+- Android SDK
+- Android Emulator or physical Android device
+
+### Installation
 
 1. Clone the repository:
 
@@ -38,32 +53,45 @@ To run the project locally:
    ```
 
 2. Open Android Studio.
-3. Select **Open** and choose the cloned project folder.
-4. Allow Gradle to sync and download the required dependencies.
-5. Run the application using an Android emulator or a connected Android device.
+3. Select **Open Project** and choose the cloned folder.
+4. Allow Gradle to synchronize.
+5. Select an Android emulator or connect an Android device.
+6. Click **Run** to launch the application.
 
 ## 📂 Project Structure
 
-The repository contains the Android application source code and the Gradle configuration files.
-
-Main directories:
-
-- `app/` – Android application module and source code.
-- `gradle/` – Gradle wrapper configuration.
+```text
+GamerReviewsFinalJava/
+│
+├── app/
+│   └── src/
+│       └── main/
+│
+├── gradle/
+├── build.gradle.kts
+├── gradle.properties
+└── settings.gradle.kts
+```
 
 ## 🎯 Project Goals
 
-- Gain practical experience with Java.
-- Learn Android application development.
-- Work with Android Studio and XML layouts.
-- Build a complete application as part of a graduation project.
+This project was developed to apply programming and software development concepts in a practical application.
+
+It demonstrates experience with:
+
+- Java programming.
+- Android application development.
+- User interface development.
+- Application structure and organization.
+- Building a complete mobile application.
 
 ## 👨‍💻 Developer
 
 **Ibrahim Hirbawi**
 
-- GitHub: https://github.com/ellibrahim
+- GitHub: [@ellibrahim](https://github.com/ellibrahim)
+- Project: [GamerReviewsFinalJava](https://github.com/ellibrahim/GamerReviewsFinalJava)
 
 ---
 
-*Developed as a 12th-grade graduation project.*
+*Developed as a high-school graduation project.*
