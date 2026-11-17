@@ -4,7 +4,7 @@ An Android application inspired by IMDb, designed for video game enthusiasts to 
 
 Developed as a high-school graduation project using Java and Android Studio.
 
-🎥 Demo Video
+## 🎥 Demo Video
 
 Want to see the application in action?
 
